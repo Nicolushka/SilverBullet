@@ -14,8 +14,10 @@ SilverBullet is a webtesting suite that allows to perform requests towards a tar
 
 If you like this software, consider making a donation to the developer. Thank you!
 
-   # BTC: 1A9fPuTezLt4L8MmCEjvE1GKP6Z59zPovg
-
+   # BTC: bc1qglsn5xcemp408xzpm630cy5xqgkr6ddk9urgm6
+   # ETH: 0x1724e783C93fcde636F5f98ba58D46F3E0D6c7dB 
+   # LTC: LKamdTxPgEVs5zx4aD27onhx8DkacFnv3Q
+   # XMR: 45c1Qb2wBgQRxY8bqW4KfPXQ47cZdTHpgfRp51XDEMbG1PQDftXL4rG87XXz1ZZjnfJY9UcP9gJSBixLV3L6WK948AZAoAw
 
 # Credits
 I want to thank all the community for their inputs that shaped SilverBullet into what it is now, and my gratitude goes towards yashvirgaming and meinname, who spent a lot of time helping me test and debug the Beta builds.
